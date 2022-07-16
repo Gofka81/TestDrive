@@ -1,0 +1,8 @@
+function printName(name){
+	document.write(name)
+}
+
+void main(){
+ String name = "Nastia";
+ printName(name);
+}
